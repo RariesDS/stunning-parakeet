@@ -1,5 +1,5 @@
-# stunning-parakeet
+#!pip install pandas
+#!pip install requests
+!pip install bs4
+#!pip install plotly
 
-## Editing the File
-
-Its a markdown file in this repository.
